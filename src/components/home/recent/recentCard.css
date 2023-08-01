@@ -1,0 +1,14 @@
+
+@media (min-width:521px) {
+    .group-of-card{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width:520px) {
+    .group-of-card{
+        display: block;
+    }
+}
