@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/e_State_Design_reactjs/static/css/main.bd01f819.css",
+    "main.js": "/e_State_Design_reactjs/static/js/main.a5fd776e.js",
+    "static/media/about.jpg": "/e_State_Design_reactjs/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/e_State_Design_reactjs/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/e_State_Design_reactjs/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/e_State_Design_reactjs/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "static/media/slick.svg": "/e_State_Design_reactjs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/e_State_Design_reactjs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/e_State_Design_reactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/e_State_Design_reactjs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/e_State_Design_reactjs/index.html",
+    "main.bd01f819.css.map": "/e_State_Design_reactjs/static/css/main.bd01f819.css.map",
+    "main.a5fd776e.js.map": "/e_State_Design_reactjs/static/js/main.a5fd776e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd01f819.css",
+    "static/js/main.a5fd776e.js"
+  ]
+}
